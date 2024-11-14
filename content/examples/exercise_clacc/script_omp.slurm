@@ -1,6 +1,6 @@
 #!/bin/bash -l
 #SBATCH --job-name=test.omp
-#SBATCH --account=project_465000485
+#SBATCH --account=project_465001310
 #SBATCH --time=00:10:00
 #SBATCH --partition=eap
 #SBATCH --nodes=1
